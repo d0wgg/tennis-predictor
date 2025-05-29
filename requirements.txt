@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+scikit-learn
+lightgbm
+# Add any other libraries your app specifically imports and uses
