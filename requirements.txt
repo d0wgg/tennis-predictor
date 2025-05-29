@@ -3,4 +3,5 @@ pandas
 numpy
 scikit-learn
 lightgbm
-# Add any other libraries your app specifically imports and uses
+gdown  # Add this line
+requests # Still good to have for other URL fetching if needed
