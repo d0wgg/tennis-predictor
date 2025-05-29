@@ -1,0 +1,6 @@
+# .gitignore
+all_matches_data.csv
+venv/
+__pycache__/
+*.DS_Store 
+# Add any other files/folders you don't want in Git
